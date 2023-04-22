@@ -207,6 +207,8 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
       * [JS Tgn Weekends (vk)](https://vk.com/js_tgn): Сообщество JavaScript-разработчиков. Встречаемся раз в месяц. Обсуждаем JavaScript и прочие аспекты жизни разработчиков - soft skills, менеджмент, поиск заказов на фрилансе и т.д. Активная часть сообщества сидит в [телеграм-чате](https://t.me/js_tgn).
   * Тверь
       * [tverio (site)](http://tver.io): Тверское ИТ сообщество. Основное общение в slack. Периодические митапы и просто посиделки. Лекции в местных вузах на технических и математических факультетах.
+  * Тольятти
+      * [Чат по python ](https://t.me/+wlU3q_TUMSxmZDUy): Чат по изучению Python. По четвергам созвон в 19 по мск обсуждаем обучение. Офлайн в г. Тольятти
   * Томск
       * [TomskJS (vk)](https://vk.com/tomskjs), [TomskJS (fb)](https://fb.com/tomskjs), [TomskJS (slack)](https://tomskjs.slack.com): Небольшие frontend митапы.
       * [TomskML (vk)](https://vk.com/tomskml), [TomskML (slack)](https://tomskml.slack.com): Машинное обучение.
